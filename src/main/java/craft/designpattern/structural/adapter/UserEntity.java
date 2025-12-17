@@ -1,5 +1,0 @@
-package craft.designpattern.structural.adapter;
-
-public record UserEntity(String name, String surname) {
-
-}
